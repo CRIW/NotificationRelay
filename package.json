@@ -1,0 +1,22 @@
+{
+  "name": "notificationrelay",
+  "version": "1.0.0",
+  "description": "Relay for mobile notifications used for ESCAU 2017 voting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRIW/NotificationRelay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRIW/NotificationRelay/issues"
+  },
+  "homepage": "https://github.com/CRIW/NotificationRelay#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
